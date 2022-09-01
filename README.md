@@ -6,8 +6,10 @@ Pada percobaan kali ini kita masuk pada pembuatan RESTFULL API yang dimana melib
 REQUIRMENTS :
 
 + Nodejs
++ NPM
 + Sequelize
 + Postgresql
++ POSTMAN/REST CLIENT
 
 Adapun langkah-langkah untuk menggunakan aplikasi ini anatara lain:
 
