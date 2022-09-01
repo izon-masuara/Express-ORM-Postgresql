@@ -1,0 +1,30 @@
+{
+  "name": "express-orm-postgresql",
+  "version": "1.0.0",
+  "description": "Create REST FULL API using Express,Sequelize and Postgresql",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izon-masuara/Express-ORM-Postgresql.git"
+  },
+  "keywords": [],
+  "author": "kautsar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izon-masuara/Express-ORM-Postgresql/issues"
+  },
+  "homepage": "https://github.com/izon-masuara/Express-ORM-Postgresql#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "^8.8.0",
+    "sequelize": "^6.21.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19",
+    "sequelize-cli": "^6.4.1"
+  }
+}
