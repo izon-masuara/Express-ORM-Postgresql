@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "wppq",
-    "database": "ExSeqPg",
+    "username": "your-postgresql-username",
+    "password": "your-postgresql-password",
+    "database": "your-database-you-want",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
